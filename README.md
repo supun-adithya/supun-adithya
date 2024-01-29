@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Supun Adithya</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lenagalaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="lenagalaarachchi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=supun-adithyai&label=Profile%20views&color=0e75b6&style=flat" alt="supun-adithya" /> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
