@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/04/56/11/01/360_F_456110193_KAxh7goQd9XLoFdkczfT2rUBb5AbMO0n.jpg)
+![MasterHead](https://cdn.discordapp.com/attachments/1177846831108063302/1240593282849837098/github-header-image.png?ex=66472007&is=6645ce87&hm=caf748fa6bcdf7783ce84cd527314b28bace2793906a388bf1121d3334f3eb27&)
 
 <h1 align="center">Hi 👋, I'm Supun Adithya</h1>
 <h3 align="center">SE undergraduate at Open University Sri Lanka</h3>
