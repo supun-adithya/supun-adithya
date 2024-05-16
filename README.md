@@ -5,7 +5,7 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supun-adithya&label=Profile%20views&color=0e75b6&style=flat" alt="supun-adithya" /> </p>
-<br>
+
 
 - 🔭 I'm currently studying **Software Engineering at the Open University of Sri Lanka.**
 
